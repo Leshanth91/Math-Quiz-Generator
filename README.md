@@ -1,4 +1,4 @@
-Interactive Math Quiz & Equation Solver
+# Interactive Math Quiz & Equation Solver
 
 A text-based Python program that generates math quizzes and solves equations based on the user's school level.
 
